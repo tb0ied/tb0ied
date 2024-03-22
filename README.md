@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tb0ied
 - 👀 I’m interested in lots of things!
-- 🌱 I’m currently enrolled on a Full Stack MERN Bootcamp with 🧬Tech Educators🧬.
+- 🌱 Recently graduated from the  Full Stack MERN Bootcamp with 🧬Tech Educators🧬.
 
 
 <!---
